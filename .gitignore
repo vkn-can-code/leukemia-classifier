@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+.env.*
+*.log
+.streamlit/
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
